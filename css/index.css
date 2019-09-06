@@ -200,3 +200,38 @@ footer nav a {
 
 /* ABOUT PAGE-SPECIFIC CSS STARTS HERE */
 
+.top-content{
+    display: flex;
+    justify-content: flex-start;
+    margin: 25px;
+    padding-bottom: 15px;
+    border-bottom-style: dashed;
+}
+.mid-top-content {
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+}
+.text-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 40%;
+    margin: 25px;
+}
+
+.mid-bottom-content {
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+}
+
+.upper-images{
+    display: flex;
+    justify-content: space-between;
+}
+
+.lower-images{
+    display: flex;
+    justify-content: space-between;
+}
